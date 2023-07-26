@@ -19,15 +19,15 @@
   
  ``` 
  LCD Screen with I2C module: 
- - Connect the SDA pin to A4 on the Arduino 
- - Connect the SCL pin to A5 on the Arduino 
+ - Connect the SDA pin to SDA on the Arduino 
+ - Connect the SCL pin to SCL on the Arduino 
  - Connect the VCC pin to 5V on the Arduino 
  - Connect the GND pin to GND on the Arduino 
   
  Pushbuttons: 
  - Connect one pin of each pushbutton to GND on the Arduino 
- - Connect the other pin of the first pushbutton to digital pin 9 on the Arduino 
- - Connect the other pin of the second pushbutton to digital pin 10 on the Arduino 
+ - Connect the other pin of the first pushbutton to digital pin 2 on the Arduino 
+ - Connect the other pin of the second pushbutton to digital pin 3 on the Arduino 
  ``` 
   
  ## Code 
