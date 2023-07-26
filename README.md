@@ -39,7 +39,8 @@
  ## Usage 
   
  To use the project, simply upload the code to your Arduino Uno board and connect the circuit as described above. When you power on the Arduino, the menu will appear on the LCD screen. Use the up and down pushbuttons to navigate through the menu options. The selected option will be highlighted with an arrow. 
-  
+## custem Animations
+just the visit website:https://maxpromer.github.io/LCD-Character-Creator/
  ## Credits 
   
  This project was inspired by [this tutorial on LCD menu navigation ↗](https://circuitdigest.com/microcontroller-projects/arduino-lcd-menu-navigation-tutorial) from Circuit Digest. The code for the I2C module is based on the "LiquidCrystal_I2C" library by Frank de Brabander.
